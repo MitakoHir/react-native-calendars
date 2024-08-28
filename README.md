@@ -1,6 +1,9 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+# Fork of React Native Calendars 🗓️ 📆
 
-# React Native Calendars 🗓️ 📆
+- Fixed position of show now indicator on Timeline component when start prop specified
+
+
+[![Link to original repo](https://github.com/wix/react-native-calendars)]
 
 ## A declarative cross-platform React Native calendar component for iOS and Android.
 
